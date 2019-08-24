@@ -141,6 +141,9 @@ sidereal_month = 27.32166155 * day                 # approximate
 tropical_month = 27.321582 * day                   # approximate
 synodic_month = 29.530589 * day = _ = lunar_month  # approximate
 planck_time = (hbar * gravitational_constant / c ** 5) ** 0.5
+work_year = 2056 * hour
+work_month = work_year / 12
+work_day = 5 * hour
 
 # Temperature
 degree_Celsius = kelvin; offset: 273.15 = °C = celsius = degC = degreeC
